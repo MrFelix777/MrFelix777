@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Felix1
+- 👋 Hi, I’m Felix
 - 👀 I’m interested in CS
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on CS
